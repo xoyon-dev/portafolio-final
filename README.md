@@ -1,8 +1,8 @@
 # Saral Theme
 
 [![Built with Astro](https://astro.badg.es/v2/built-with-astro/tiny.svg)](https://astro.build)
-[![Lint, Format, and Type Check](https://github.com/yashjawale/saral-theme-astro/actions/workflows/lint.yml/badge.svg)](https://github.com/yashjawale/yashjawale.github.io/actions/workflows/lint.yml)
-[![Deploy to GitHub Pages](https://github.com/yashjawale/saral-theme-astro/actions/workflows/deploy.yml/badge.svg)](https://github.com/yashjawale/yashjawale.github.io/actions/workflows/deploy.yml)
+[![Lint, Format, and Type Check](https://github.com/yashjawale/saral-theme-astro/actions/workflows/lint.yml/badge.svg)](https://github.com/yashjawale/saral-theme-astro/actions/workflows/lint.yml)
+[![Deploy to GitHub Pages](https://github.com/yashjawale/saral-theme-astro/actions/workflows/deploy.yml/badge.svg)](https://github.com/yashjawale/saral-theme-astro/actions/workflows/deploy.yml)
 
 A simple & minimal theme for personal blog sites, crafted for Astro framework.
 
