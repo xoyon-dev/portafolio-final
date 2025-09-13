@@ -1,9 +1,9 @@
 // Place any global data in this file.
 // You can import this data from anywhere in your site by using the `import` keyword.
 
-export const SITE_TITLE = 'Yash Jawale'
+export const SITE_TITLE = 'Saral Theme'
 export const SITE_DESCRIPTION =
-	'A site for sharing my thoughts & experiments with the world.'
+	'A simple theme for personal blog sites, created for Astro framework'
 
 export const SocialLinks = [
 	{
@@ -34,7 +34,7 @@ export const WebsiteLinks = [
 		url: '/blog',
 	},
 	{
-		name: 'Playground',
-		url: 'https://yashjawale.github.io/playground',
-	},
+		name: 'About',
+		url: '/about',
+	}
 ]
