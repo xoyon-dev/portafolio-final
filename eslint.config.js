@@ -8,8 +8,12 @@ export default [
 	js.configs.recommended,
 	...tseslint.configs.recommended,
 	...astro.configs.recommended,
-	jsxA11y.flatConfigs.recommended,
 	prettierConfig,
+	{
+		// Apply jsx-a11y only to JSX/TSX files, not Astro
+		files: ['**/*.jsx', '**/*.tsx'],
+		...jsxA11y.flatConfigs.recommended,
+	},
 	{
 		rules: {
 			// Astro specific rules
