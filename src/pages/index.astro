@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro'
-import { SocialLinks } from '../consts'
+import { SITE_BASE, SocialLinks } from '../consts'
 import { Icon } from 'astro-icon/components'
 import BlogCard from '../components/BlogCard.astro'
 import { getCollection } from 'astro:content'
@@ -58,8 +58,7 @@ const posts = (await getCollection('blog'))
 			</p>
 			<a
 				class="btn-secondary"
-				href="https://yashjawale.github.io/playground/"
-				target="_blank"
+				href={`${SITE_BASE}/about`}
 				>Go to About
 				<Icon size={20} name="mdi:arrow-right" />
 			</a>
