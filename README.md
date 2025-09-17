@@ -6,7 +6,11 @@
 
 A simple & minimal theme for personal blog sites, crafted for Astro framework.
 
-View demo at [https://yashjawale.github.io/saral-theme-astro](https://yashjawale.github.io/saral-theme-astro)
+View demo at [https://yashjawale.github.io/saral-theme-astro/](https://yashjawale.github.io/saral-theme-astro/)
+
+View in Astro themes at [https://astro.build/themes/details/saral/](https://astro.build/themes/details/saral/)
+
+> Like what you see? Consider starring the repository 🌟
 
 ![Theme Screenshot](./screenshot.jpg)
 
